@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Lary2002/Random-Quotes-Machine",
+  "homepage": "https://lary2002.github.io/Random-Quotes-Machine",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
